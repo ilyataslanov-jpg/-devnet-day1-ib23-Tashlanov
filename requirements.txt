@@ -1,3 +1,7 @@
 requests
 pytest
 jsonschema
+requests
+pytest
+jsonschema
+pyyaml
